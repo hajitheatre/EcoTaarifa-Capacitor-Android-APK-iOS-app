@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="app_name">Otaarifa</string>
-    <string name="title_activity_main">Otaarifa</string>
+    <string name="app_name">EcoTaarifa</string>
+    <string name="title_activity_main">EcoTaarifa</string>
     <string name="package_name">com.otaarifa.app</string>
     <string name="custom_url_scheme">com.otaarifa.app</string>
 </resources>
